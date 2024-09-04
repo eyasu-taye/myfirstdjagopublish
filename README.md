@@ -33,7 +33,7 @@ Sample screenshoot for multiplication app
 ![smaple screeshoot](assets/images/sample3.PNG)
 
 Whole app Functionality in vedio
-![smaple screeshoot](assets/images/04.09.2024_11.05.34_REC.mp4)
+![Watch the video](assets/images/04.09.2024_11.05.34_REC.mp4)
 
 ## Installation
 
