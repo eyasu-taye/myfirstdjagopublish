@@ -34,7 +34,7 @@ Sample screenshoot for multiplication app
 
 ![smaple screeshoot](assets/images/sample3.PNG)
 
-Whole app Functionality in demo
+Whole app Functionality demo
 
 ![Watch the video](assets/images/04.09.2024_11.05.34_REC.mp4)
 ![Watch the video](path/to/your/04.09.2024_11.05.34_REC.mp4)
