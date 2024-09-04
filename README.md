@@ -27,13 +27,17 @@ This project is a pytho-based web application designed to to clculate numbers.
 ![smaple screeshoot](assets/images/sample1.PNG)
 
 Sample screenshoot for addtion app
+
 ![smaple screeshoot](assets/images/sample2.PNG)
 
 Sample screenshoot for multiplication app
+
 ![smaple screeshoot](assets/images/sample3.PNG)
 
 Whole app Functionality in vedio
+
 ![Watch the video](assets/images/04.09.2024_11.05.34_REC.mp4)
+![Watch the video](path/to/your/04.09.2024_11.05.34_REC.mp4)
 
 ## Installation
 
