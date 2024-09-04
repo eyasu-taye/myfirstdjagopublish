@@ -22,13 +22,16 @@ This project is a pytho-based web application designed to to clculate numbers.
 - It has division app
 - It has a home app
 - each app use POST method
-- 
+  
 ## Preview
 ![smaple screeshoot](assets/images/sample1.PNG)
+
 Sample screenshoot for addtion app
 ![smaple screeshoot](assets/images/sample2.PNG)
+
 Sample screenshoot for multiplication app
 ![smaple screeshoot](assets/images/sample3.PNG)
+
 Whole app Functionality in vedio
 ![smaple screeshoot](assets/images/04.09.2024_11.05.34_REC.mp4)
 
