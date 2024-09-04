@@ -24,11 +24,11 @@ This project is a pytho-based web application designed to to clculate numbers.
 - each app use POST method
 - 
 ## Preview
-![smaple screeshoot](assets/images/sample1.png)
+![smaple screeshoot](assets/images/sample1.PNG)
 Sample screenshoot for addtion app
-![smaple screeshoot](assets/images/sample2.png)
+![smaple screeshoot](assets/images/sample2.PNG)
 Sample screenshoot for multiplication app
-![smaple screeshoot](assets/images/sample3.png)
+![smaple screeshoot](assets/images/sample3.PNG)
 Whole app Functionality in vedio
 ![smaple screeshoot](assets/images/04.09.2024_11.05.34_REC.mp4)
 
@@ -54,23 +54,6 @@ To set up the project locally, follow these steps:
     composer install
     ```
 
-4. **Copy the `.env.example` file to `.env` and configure it:**
-
-    ```bash
-    cp .env.example .env
-    ```
-
-5. **Generate an application key:**
-
-    ```bash
-    php artisan key:generate
-    ```
-
-6. **Run database migrations:**
-
-    ```bash
-    php artisan migrate
-    ```
 
 ## Usage
 
