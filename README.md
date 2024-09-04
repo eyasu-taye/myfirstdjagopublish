@@ -36,7 +36,7 @@ Sample screenshoot for multiplication app
 
 Whole app Functionality demo
 
-<video alt= "Watch the demo" width="640" height="480" controls poster=" autoplay>
+<video  width="640" height="480" controls poster="" autoplay>
   <source src="assets/images/REC.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
