@@ -24,17 +24,17 @@ This project is a python based web django application designed to to clculate nu
 - each app use POST method
   
 ## Preview
-![smaple screeshoot](assets/images/sample1.PNG)
+<!-- ![smaple screeshoot](assets/images/sample1.PNG) -->
+<img src="assets/images/sample1.PNG" alt="Project Image" width="300"/>
 
 Sample screenshoot for addtion app
 
-![smaple screeshoot](assets/images/sample2.PNG)
-
+<!-- ![smaple screeshoot](assets/images/sample2.PNG) -->
+<img src="assets/images/sample2.PNG" alt="Project Image" width="300"/>
 Sample screenshoot for multiplication app
 
-![smaple screeshoot](assets/images/sample3.PNG)
-
-Whole app Functionality demo
+<!-- ![smaple screeshoot](assets/images/sample3.PNG) -->
+<img src="assets/images/sample3.PNG" alt="Project Image" width="300"/>
 
 <video  width="640" height="480" controls poster="" autoplay>
   <source src="assets/images/REC.mp4" type="video/mp4">
