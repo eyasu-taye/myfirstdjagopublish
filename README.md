@@ -12,7 +12,7 @@ A web application built with Django, a python framework for web application.
 
 ## Introduction
 
-This project is a pytho-based web application designed to to clculate numbers.
+This project is a python based web django application designed to to clculate numbers.
 
 ## Features
 
@@ -32,7 +32,7 @@ Sample screenshoot for addtion app
 
 Sample screenshoot for multiplication app
 
-![smaple screeshoot](assets/images/sample3.PNG)
+![smaple screeshoot](assets/images/REC.mp4)
 
 Whole app Functionality demo
 
