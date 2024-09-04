@@ -36,8 +36,7 @@ Sample screenshoot for multiplication app
 
 Whole app Functionality demo
 
-![Watch the video](assets/images/04.09.2024_11.05.34_REC.mp4)
-![Watch the video](path/to/your/04.09.2024_11.05.34_REC.mp4)
+![Watch the video](assets/images/REC.mp4)
 
 ## Installation
 
