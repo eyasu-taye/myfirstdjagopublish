@@ -32,7 +32,7 @@ Sample screenshoot for addtion app
 
 Sample screenshoot for multiplication app
 
-![smaple screeshoot](assets/images/REC.mp4)
+![smaple screeshoot](assets/images/sample3.PNG)
 
 Whole app Functionality demo
 
