@@ -48,19 +48,19 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-laravel-repository.git
+    git clone https://github.com/your-username/your-django-repository.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-laravel-repository
+    cd your-django-repository
     ```
 
 3. **Install the dependencies:**
 
     ```bash
-    composer install
+    pip install django
     ```
 
 
@@ -69,4 +69,4 @@ To set up the project locally, follow these steps:
 To start the development server, run:
 
 ```bash
-php artisan serve
+django-admin runserver
